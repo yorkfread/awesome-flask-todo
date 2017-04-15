@@ -3,28 +3,48 @@
 <head>
     <meta charset="UTF-8">
     <title>开启世界之门的问候语</title>
+
+    <!-- css study -->
+    <link href="//cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <!-- <link href="../static/index.css" rel="stylesheet"> -->
+
 </head>
 <body>
 
-<table class="table">
-    <thead>
-    <tr>
-        <td>Content</td>
-        <td>Time</td>
-        <td>Status</td>
-    </tr>
-    </thead>
-    <tbody>
-    {% for t in todos %}
-    <tr>
-        <td>{{ t.content }}</td>
-        <td>{{ t.time }}</td>
-        <td>{{ t.status }}</td>
-    </tr>
-    {% endfor %}
-    </tbody>
-</table>
+<div class="container">
 
+    <form class="input-group" action="/add" method="post">
+        <input class="form-control" id="content" name="content" type="text" value="" title="内容">
+        <span class="input-group-btn">
+            <button class="btn btn-primary" type="submit">
+                Add
+            </button>
+        </span>
+    </form>
+
+    <table class="table table-bordered">
+        <thead>
+        <tr>
+            <td>Content</td>
+            <td>Time</td>
+            <td>Status</td>
+        </tr>
+        </thead>
+        <tbody>
+        {% for t in todos %}
+        <tr>
+            <td>{{ t.content }}</td>
+            <td>{{ t.time }}</td>
+            <td>{{ t.status }}</td>
+        </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+<!-- javascript -->
+<script src="//cdn.bootcss.com/jquery/2.2.4/jquery.min.js"></script>
+<script src="//cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
 </body>
 </html>
