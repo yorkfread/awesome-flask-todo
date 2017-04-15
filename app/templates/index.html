@@ -13,30 +13,58 @@
 
 <div class="container">
 
-    <form class="input-group" action="/add" method="post">
-        <input class="form-control" id="content" name="content" type="text" value="" title="内容">
-        <span class="input-group-btn">
+
+    <form action="/add/" method="post">
+        {% macro return_error(attr) %}
+            {% if attr.errors %}
+                {% for error in attr.errors %}
+                    <div class="alert alert-warning" role="alert">
+                        <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        {{ error }}
+                    </div>
+                {% endfor %}
+            {% endif %}
+        {% endmacro %}
+
+        {{ form.hidden_tag() }}
+
+        {{ return_error(form.content) }}
+
+        <div class="form-group">
+            <label>内容( <span style="font-size: 10px;font-weight: normal">^_^ 字数应保持在20字节内哦~</span> ):</label>
+            <input class="form-control" id="content" name="content" type="text" value="" title="请输入内容">
+        </div>
+        <div class="form-group">
             <button class="btn btn-primary" type="submit">
-                Add
+                添加
             </button>
-        </span>
+        </div>
     </form>
 
     <table class="table table-bordered">
         <thead>
         <tr>
-            <td>Content</td>
-            <td>Time</td>
-            <td>Status</td>
+            <th>备忘内容</th>
+            <th>创建时间</th>
+            <th>状态</th>
         </tr>
         </thead>
         <tbody>
         {% for t in todos %}
-        <tr>
-            <td>{{ t.content }}</td>
-            <td>{{ t.time }}</td>
-            <td>{{ t.status }}</td>
-        </tr>
+            <tr>
+                <td>{{ t.content }}</td>
+                <td>{{ t.time }}</td>
+                <td>
+                    <a href="/delete/{{ t.id }}/" class="btn btn-danger" style="float: right; margin-left: 10px">删除</a>
+                    {% if t.status == 0 %}
+                        <span class="status_txt">未完成</span>
+                        <a href="/done/{{ t.id }}/" class="btn btn-primary" style="float: right">切换</a>
+                    {% else %}
+                        <span class="status_txt">已完成</span>
+                        <a href="/undone/{{ t.id }}/" class="btn btn-primary" style="float: right">切换</a>
+                    {% endif %}
+                </td>
+            </tr>
         {% endfor %}
         </tbody>
     </table>
