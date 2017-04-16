@@ -1,15 +1,24 @@
 # -*- coding: utf-8 -*-
 
-from app import app
+from app import app, redis
 from flask import render_template, request, redirect, url_for
 from app.forms import TodoForm
 from app.models import Todo
+from datetime import datetime
 
 
 @app.route('/')
 def index():
-    todos = Todo.objects.all()
-    return render_template('index.html', todos=todos, form=TodoForm())
+    errors = redis.hget('user_id', 'errors')
+    redis.hdel('user_id', 'errors')
+    if errors:
+        try:
+            errors = eval(errors)
+        except:
+            print('转换表单校验errors出错')
+    form = TodoForm()
+    todos = Todo.objects.all().order_by('-time')
+    return render_template('index.html', todos=todos, form=form, errors=errors)
 
 
 @app.route('/add/', methods=['POST', ])
@@ -18,10 +27,11 @@ def add():
     if form.validate_on_submit():
         content = request.form.get('content')
         if content:
-            todo = Todo(content=content)
+            todo = Todo(content=content, time=datetime.now())
+            print(todo.time)
             todo.save()
-    todos = Todo.objects.all()
-    return render_template('index.html', todos=todos, form=form)
+    redis.hset('user_id', 'errors', form.content.errors)
+    return redirect(url_for('index'))
 
 
 def is_done(isdone, todo_id):

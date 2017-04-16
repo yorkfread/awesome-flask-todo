@@ -1,73 +1,117 @@
 <!DOCTYPE html>
 <html>
+
 <head>
+
     <meta charset="UTF-8">
     <title>开启世界之门的问候语</title>
 
-    <!-- css study -->
     <link href="//cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
-    <!-- <link href="../static/index.css" rel="stylesheet"> -->
+
+    <style>
+        body, html {
+            height: 100%;
+            background-color: #E8F7EE;
+        }
+
+        .container {
+            height: 100%;
+            background-color: #FFFFFF;
+        }
+    </style>
 
 </head>
+
 <body>
 
 <div class="container">
 
-
-    <form action="/add/" method="post">
-        {% macro return_error(attr) %}
-            {% if attr.errors %}
-                {% for error in attr.errors %}
-                    <div class="alert alert-warning" role="alert">
-                        <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                        {{ error }}
-                    </div>
-                {% endfor %}
-            {% endif %}
-        {% endmacro %}
-
-        {{ form.hidden_tag() }}
-
-        {{ return_error(form.content) }}
-
-        <div class="form-group">
-            <label>内容( <span style="font-size: 10px;font-weight: normal">^_^ 字数应保持在20字节内哦~</span> ):</label>
-            <input class="form-control" id="content" name="content" type="text" value="" title="请输入内容">
+    <div class="row">
+        <div class="page-header col-sm-8 col-sm-offset-2">
+            <h1>备忘小条子
+                <small>记录美好生活中的点点滴滴</small>
+            </h1>
         </div>
-        <div class="form-group">
-            <button class="btn btn-primary" type="submit">
-                添加
-            </button>
-        </div>
-    </form>
+    </div>
 
-    <table class="table table-bordered">
-        <thead>
-        <tr>
-            <th>备忘内容</th>
-            <th>创建时间</th>
-            <th>状态</th>
-        </tr>
-        </thead>
-        <tbody>
-        {% for t in todos %}
-            <tr>
-                <td>{{ t.content }}</td>
-                <td>{{ t.time }}</td>
-                <td>
-                    <a href="/delete/{{ t.id }}/" class="btn btn-danger" style="float: right; margin-left: 10px">删除</a>
+    <div class="row">
+        <div class="col-sm-8 col-sm-offset-2">
+            <h3><img src="http://download.easyicon.net/png/1205488/24/" style="margin-right: 10px">添加备忘</h3>
+
+            <form action="/add/" method="post">
+
+                {{ form.hidden_tag() }}
+
+                {% if errors %}
+                    {% for error in errors %}
+                        <div class="alert alert-warning" role="alert">
+                            <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                            {{ error }}
+                        </div>
+                    {% endfor %}
+                {% endif %}
+
+                <div class="form-group">
+                    <label>内容 ( <span style="font-size: 10px;font-weight: normal">^_^ 字数应控制在20字节内哦~</span> ):</label>
+                    <input class="form-control" id="content" name="content" type="text" value="" title="请输入内容">
+                </div>
+                <div class="form-group" style="text-align: right">
+                    <button class="btn btn-primary btn-block" type="submit">
+                        添加
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-8  col-sm-offset-2">
+            <h3><img src="http://download.easyicon.net/png/1205488/24/" style="margin-right: 10px">备忘列表</h3>
+            <table class="table table-bordered table-responsive table-hover">
+                <thead>
+                <tr class="active">
+                    <th>备忘内容</th>
+                    <th>创建时间</th>
+                    <th>状态</th>
+                    <th>操作</th>
+                </tr>
+                </thead>
+                <tbody>
+                {% if todos | length == 0 %}
+                    <tr class="info">
+                        <td colspan="4" align="center"> ^_^ 现在还没有备忘,试着添加一个吧~</td>
+                    </tr>
+                {% endif %}
+                {% for t in todos %}
                     {% if t.status == 0 %}
-                        <span class="status_txt">未完成</span>
-                        <a href="/done/{{ t.id }}/" class="btn btn-primary" style="float: right">切换</a>
-                    {% else %}
-                        <span class="status_txt">已完成</span>
-                        <a href="/undone/{{ t.id }}/" class="btn btn-primary" style="float: right">切换</a>
+                        <tr class="warning">
+                            {% else %}
+                        <tr class="success">
                     {% endif %}
+                <td>{{ t.content }}</td>
+                <td>{{ t.time.strftime('%Y-%m-%d %H:%M ') }}</td>
+                {% if t.status == 0 %}
+                    <td>
+                        <span class="status_txt">未完成</span>
+                    </td>
+                    <td>
+                        <a href="/done/{{ t.id }}/" class="btn btn-sm btn-primary col-sm-5 col-xs-12">切换</a>
+                        {% else %}
+                    <td>
+                        <span class="status_txt">已完成</span>
+                    </td>
+                    <td>
+                    <a href="/undone/{{ t.id }}/" class="btn btn-sm btn-primary col-sm-5 col-xs-12">切换</a>
+                {% endif %}
+                <a href="/delete/{{ t.id }}/" class="btn btn-sm btn-danger col-sm-5 col-sm-offset-2 col-xs-12">删除</a>
                 </td>
-            </tr>
-        {% endfor %}
-        </tbody>
-    </table>
+                </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+
 </div>
 
 <!-- javascript -->

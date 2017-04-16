@@ -4,7 +4,9 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Python 3.5.2 (/usr/bin/python3.5)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="site" />
+    <orderEntry type="module" module-name="xadmin" />
+    <orderEntry type="module" module-name="xweb" />
+    <orderEntry type="module" module-name="xcore" />
   </component>
   <component name="TemplatesService">
     <option name="TEMPLATE_CONFIGURATION" value="Jinja2" />
