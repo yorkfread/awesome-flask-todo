@@ -57,3 +57,9 @@ def delete(todo_id):
     todo = Todo.objects.get_or_404(id=todo_id)
     todo.delete()
     return redirect(url_for('index'))
+
+
+@app.errorhandler(404)
+def not_found(error):
+    error = '很抱歉,没有找到你选择的页面...'
+    return render_template('error.html', error=error)

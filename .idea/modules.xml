@@ -3,6 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/awesome-flask-todo.iml" filepath="$PROJECT_DIR$/.idea/awesome-flask-todo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gongju/.idea/gongju.iml" filepath="$PROJECT_DIR$/../gongju/.idea/gongju.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../site/.idea/site.iml" filepath="$PROJECT_DIR$/../site/.idea/site.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xadmin/.idea/xadmin.iml" filepath="$PROJECT_DIR$/../xadmin/.idea/xadmin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xcore/.idea/xcore.iml" filepath="$PROJECT_DIR$/../xcore/.idea/xcore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xuser/.idea/xuser.iml" filepath="$PROJECT_DIR$/../xuser/.idea/xuser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xweb/.idea/xweb.iml" filepath="$PROJECT_DIR$/../xweb/.idea/xweb.iml" />
     </modules>
   </component>
 </project>

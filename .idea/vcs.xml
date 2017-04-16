@@ -2,6 +2,11 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../gongju" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../site" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../xadmin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../xcore" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../xuser" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../xweb" vcs="Git" />
   </component>
 </project>
