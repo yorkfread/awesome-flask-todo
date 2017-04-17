@@ -4,6 +4,6 @@ from app import db
 
 
 class Todo(db.Document):
-    content = db.StringField(required=True, max_length=20)
+    content = db.StringField(required=True, max_length=40)
     time = db.DateTimeField(required=True)
     status = db.IntField(default=0)

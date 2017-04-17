@@ -2,27 +2,326 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b739a20-70a1-4022-a323-5437222b8489" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/error.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/test_todo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/static/fonts/applew36.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/static/fonts/hanyijianhei.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/static/images/696_thumb_G_1476239378241.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/study_python/test.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/study_python/test.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/index_Sidebar/电商资讯_卖家资讯_淘宝卖家_看电商首页_files/3YWh1o28Eb1482476540.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/index_Sidebar/电商资讯_卖家资讯_淘宝卖家_看电商首页_files/43WG2ASlWR1482461877.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/index_Sidebar/电商资讯_卖家资讯_淘宝卖家_看电商首页_files/DTdlr9BIcl1482550043.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/index_Sidebar/电商资讯_卖家资讯_淘宝卖家_看电商首页_files/article_1489026769.2265224.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/index_Sidebar/电商资讯_卖家资讯_淘宝卖家_看电商首页_files/article_1489028620.936855.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/index_Sidebar/电商资讯_卖家资讯_淘宝卖家_看电商首页_files/article_1489031640.6474142.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/index_Sidebar/电商资讯_卖家资讯_淘宝卖家_看电商首页_files/article_1489395831.458069.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/index_Sidebar/电商资讯_卖家资讯_淘宝卖家_看电商首页_files/article_1489396098.888293(1).png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/index_Sidebar/电商资讯_卖家资讯_淘宝卖家_看电商首页_files/article_1489396098.888293.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/index_Sidebar/电商资讯_卖家资讯_淘宝卖家_看电商首页_files/article_1489396839.8817348(1).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/index_Sidebar/电商资讯_卖家资讯_淘宝卖家_看电商首页_files/article_1489396839.8817348.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/index_Sidebar/电商资讯_卖家资讯_淘宝卖家_看电商首页_files/article_1489397827.3480802(1).png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/index_Sidebar/电商资讯_卖家资讯_淘宝卖家_看电商首页_files/article_1489397827.3480802.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/index_Sidebar/电商资讯_卖家资讯_淘宝卖家_看电商首页_files/article_1489398394.731779(1).gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/index_Sidebar/电商资讯_卖家资讯_淘宝卖家_看电商首页_files/article_1489398394.731779.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/index_Sidebar/电商资讯_卖家资讯_淘宝卖家_看电商首页_files/article_1489462618.748548.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/index_Sidebar/电商资讯_卖家资讯_淘宝卖家_看电商首页_files/article_1489462952.9755101(1).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/index_Sidebar/电商资讯_卖家资讯_淘宝卖家_看电商首页_files/article_1489462952.9755101.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/index_Sidebar/电商资讯_卖家资讯_淘宝卖家_看电商首页_files/article_1489463567.080416.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/index_Sidebar/电商资讯_卖家资讯_淘宝卖家_看电商首页_files/article_1489480568.680398.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/index_Sidebar/电商资讯_卖家资讯_淘宝卖家_看电商首页_files/article_1489480833.45754.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/index_Sidebar/电商资讯_卖家资讯_淘宝卖家_看电商首页_files/article_1489481220.843991.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/index_Sidebar/电商资讯_卖家资讯_淘宝卖家_看电商首页_files/article_1489481912.956714.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/index_Sidebar/电商资讯_卖家资讯_淘宝卖家_看电商首页_files/article_1489546430.409195.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/index_Sidebar/电商资讯_卖家资讯_淘宝卖家_看电商首页_files/article_1490605184.5677922(1).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/index_Sidebar/电商资讯_卖家资讯_淘宝卖家_看电商首页_files/article_1490605184.5677922.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/index_Sidebar/电商资讯_卖家资讯_淘宝卖家_看电商首页_files/article_1490605839.4972868(1).png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/index_Sidebar/电商资讯_卖家资讯_淘宝卖家_看电商首页_files/article_1490605839.4972868.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/index_Sidebar/电商资讯_卖家资讯_淘宝卖家_看电商首页_files/article_1490608542.3463218.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/index_Sidebar/电商资讯_卖家资讯_淘宝卖家_看电商首页_files/author_1489566950.114924.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/index_Sidebar/电商资讯_卖家资讯_淘宝卖家_看电商首页_files/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/index_Sidebar/电商资讯_卖家资讯_淘宝卖家_看电商首页_files/next-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/index_Sidebar/电商资讯_卖家资讯_淘宝卖家_看电商首页_files/pre-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/search_page/1_files/3YWh1o28Eb1482476540.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/search_page/1_files/43WG2ASlWR1482461877.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/search_page/1_files/DTdlr9BIcl1482550043.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/search_page/1_files/LFjGSapE1487991696_31.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/search_page/1_files/article_1489462952.9755101.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/search_page/1_files/article_1489463567.080416.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/search_page/1_files/article_1489481912.956714.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/search_page/1_files/article_1489484850.710829.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/search_page/1_files/article_1489546430.409195(1).webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/search_page/1_files/article_1489546430.409195.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/search_page/1_files/article_1490605184.5677922.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/search_page/1_files/article_1490605839.4972868.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/search_page/1_files/author_1489566950.114924.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/search_page/1_files/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/tag_head_top/淘宝客_看电商_files/3YWh1o28Eb1482476540.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/tag_head_top/淘宝客_看电商_files/43WG2ASlWR1482461877.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/tag_head_top/淘宝客_看电商_files/DTdlr9BIcl1482550043.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/tag_head_top/淘宝客_看电商_files/LFjGSapE1487991696_31.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/tag_head_top/淘宝客_看电商_files/article_1489462952.9755101.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/tag_head_top/淘宝客_看电商_files/article_1489546430.409195.webp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/tag_head_top/淘宝客_看电商_files/article_1490605839.4972868.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/tag_head_top/淘宝客_看电商_files/author_1489566950.114924.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/tag_head_top/淘宝客_看电商_files/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/tag_head_top/淘宝客_看电商_files/qmAja7LG1x1482894821.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/build-site/public/banner.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/build-site/public/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/github.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/public/img/background.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/public/img/consola.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/public/img/source.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/qrcode_for_giscafer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/小薇学院/xiaowei.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/小薇学院/任务一：零基础HTML编码/task_1_1_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/小薇学院/任务三：三栏式布局/task_1_3_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/小薇学院/任务二：零基础HTML及CSS编码（一）/task_1_2_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/小薇学院/任务五：零基础HTML及CSS编码（二）/task_1_5_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/小薇学院/任务四：定位和居中问题/task_1_4_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/斌斌学院/cover.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/斌斌学院/任务一：零基础JavaScript编码（一）/cover.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/斌斌学院/任务五：基础JavaScript练习（二）/cover.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/斌斌学院/任务六：基础JavaScript练习（三）/cover.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/斌斌学院/任务四：基础JavaScript练习（一）/cover.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/build-site/public/banner.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/build-site/public/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/github.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/public/img/background.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/public/img/consola.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/public/img/source.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/qrcode_for_giscafer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/小薇学院/xiaowei.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/小薇学院/任务一：零基础HTML编码/task_1_1_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/小薇学院/任务三：三栏式布局/task_1_3_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/小薇学院/任务二：零基础HTML及CSS编码（一）/task_1_2_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/小薇学院/任务五：零基础HTML及CSS编码（二）/task_1_5_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/小薇学院/任务四：定位和居中问题/task_1_4_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/斌斌学院/cover.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/斌斌学院/任务一：零基础JavaScript编码（一）/cover.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/斌斌学院/任务五：基础JavaScript练习（二）/cover.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/斌斌学院/任务六：基础JavaScript练习（三）/cover.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/斌斌学院/任务四：基础JavaScript练习（一）/cover.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/.idea/codeStyleSettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/.idea/dictionaries/york.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/.idea/site.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/.idea/watcherTasks.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/config.cfg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/forms/user_from.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/lang_module.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/models/user.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/static/1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/static/css/backstage-Responsive/backstage-Responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/static/css/backstage/backstage.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/static/css/bf/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/static/css/kds/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/static/css/maijia-homg-page/maijia-homg-page.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/static/css/maijiawap/maijiawap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/static/css/page-all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/static/css/practice_wap/practice_wap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/static/css/study-ECharts-Weather/study-ECharts-Weather.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/static/css/study-bootstrap/study-bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/static/css/study_EChartss-2/study_EChartss-2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/static/css/test/zzsc-demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/static/js/backstage-Responsive/backstage-Responsive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/static/js/backstage/backstage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/static/js/jquery/echarts/echarts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/static/js/jquery/jquery-3.2.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/static/js/js_student.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/static/js/kbhit_underscore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/static/js/kds/kds.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/static/js/maijia-homg-page/maijia-homg-page.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/static/js/pageJS.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/static/js/practice_wap/practice_wap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/static/js/study-ECharts-Weather/study-ECharts-Weather.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/static/js/study-ECharts/study-ECharts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/static/js/study_EChartss-2/china.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/static/js/study_EChartss-2/study_EChartss-2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/static/js/test/jquery.svg3dtagcloud.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/study_python/hello.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/study_python/student.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/study_python/study_python.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/study_python/test_4-6.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/study_python/test_tools.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/study_python/tset_4-7.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/backstage-Responsive/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/backstage/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/index_Sidebar/电商资讯_卖家资讯_淘宝卖家_看电商首页.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/index_Sidebar/电商资讯_卖家资讯_淘宝卖家_看电商首页_files/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/index_Sidebar/电商资讯_卖家资讯_淘宝卖家_看电商首页_files/common.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/index_Sidebar/电商资讯_卖家资讯_淘宝卖家_看电商首页_files/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/index_Sidebar/电商资讯_卖家资讯_淘宝卖家_看电商首页_files/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/index_Sidebar/电商资讯_卖家资讯_淘宝卖家_看电商首页_files/normalize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/search_page/1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/search_page/1_files/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/search_page/1_files/common.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/search_page/1_files/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/search_page/1_files/normalize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/search_page/1_files/search.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/tag_head_top/淘宝客_看电商.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/tag_head_top/淘宝客_看电商_files/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/tag_head_top/淘宝客_看电商_files/common.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/tag_head_top/淘宝客_看电商_files/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/tag_head_top/淘宝客_看电商_files/normalize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/kds_project/tag_head_top/淘宝客_看电商_files/search.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/maijia-homg-page/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/practice_wap/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-ECharts-Weather/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-ECharts/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-login/403.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-login/admin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-login/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-login/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-project/kds/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-project/maijiawap-first/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-project/maijiawap/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-css/css-layout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/build-site/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/build-site/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/build-site/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/build-site/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/build-site/public/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/build-site/src/App.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/build-site/src/App.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/build-site/src/App.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/build-site/src/actions/goods.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/build-site/src/components/common/CircleLoading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/build-site/src/components/common/footer/Footer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/build-site/src/components/common/footer/Footer.jsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/build-site/src/components/common/header/Header.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/build-site/src/components/common/header/Header.jsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/build-site/src/components/goods/Good.jsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/build-site/src/components/goods/GoodList.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/build-site/src/components/goods/GoodList.jsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/build-site/src/components/goods/Jumbotron.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/build-site/src/components/goods/Jumbotron.jsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/build-site/src/containers/App.jsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/build-site/src/containers/GoodContent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/build-site/src/containers/HeaderContainer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/build-site/src/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/build-site/src/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/build-site/src/logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/build-site/src/reducers/goods.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/build-site/src/reducers/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/build-site/src/service/dataJson.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/build-site/src/service/goodService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/build-site/src/stores/configStore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/build-site/src/stores/initState.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/build-site/src/utils/createReducer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/build-site/src/utils/getSize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/public/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/public/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/小薇学院/data.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/小薇学院/任务一：零基础HTML编码/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/小薇学院/任务三：三栏式布局/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/小薇学院/任务二：零基础HTML及CSS编码（一）/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/小薇学院/任务二：零基础HTML及CSS编码（一）/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/小薇学院/任务五：零基础HTML及CSS编码（二）/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/小薇学院/任务五：零基础HTML及CSS编码（二）/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/小薇学院/任务四：定位和居中问题/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/小薇学院/任务四：定位和居中问题/index2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/斌斌学院/data.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/斌斌学院/任务一：零基础JavaScript编码（一）/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/斌斌学院/任务三：零基础JavaScript编码（三）/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/斌斌学院/任务二：零基础JavaScript编码（二）/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/斌斌学院/任务五：基础JavaScript练习（二）/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/斌斌学院/任务六：基础JavaScript练习（三）/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/ife-course-demo-master/斌斌学院/任务四：基础JavaScript练习（一）/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/build-site/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/build-site/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/build-site/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/build-site/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/build-site/public/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/build-site/src/App.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/build-site/src/App.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/build-site/src/App.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/build-site/src/actions/goods.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/build-site/src/components/common/CircleLoading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/build-site/src/components/common/footer/Footer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/build-site/src/components/common/footer/Footer.jsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/build-site/src/components/common/header/Header.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/build-site/src/components/common/header/Header.jsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/build-site/src/components/goods/Good.jsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/build-site/src/components/goods/GoodList.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/build-site/src/components/goods/GoodList.jsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/build-site/src/components/goods/Jumbotron.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/build-site/src/components/goods/Jumbotron.jsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/build-site/src/containers/App.jsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/build-site/src/containers/GoodContent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/build-site/src/containers/HeaderContainer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/build-site/src/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/build-site/src/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/build-site/src/logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/build-site/src/reducers/goods.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/build-site/src/reducers/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/build-site/src/service/dataJson.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/build-site/src/service/goodService.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/build-site/src/stores/configStore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/build-site/src/stores/initState.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/build-site/src/utils/createReducer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/build-site/src/utils/getSize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/public/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/public/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/小薇学院/data.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/小薇学院/任务一：零基础HTML编码/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/小薇学院/任务三：三栏式布局/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/小薇学院/任务二：零基础HTML及CSS编码（一）/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/小薇学院/任务二：零基础HTML及CSS编码（一）/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/小薇学院/任务五：零基础HTML及CSS编码（二）/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/小薇学院/任务五：零基础HTML及CSS编码（二）/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/小薇学院/任务四：定位和居中问题/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/小薇学院/任务四：定位和居中问题/index2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/斌斌学院/data.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/斌斌学院/任务一：零基础JavaScript编码（一）/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/斌斌学院/任务三：零基础JavaScript编码（三）/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/斌斌学院/任务二：零基础JavaScript编码（二）/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/斌斌学院/任务五：基础JavaScript练习（二）/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/斌斌学院/任务六：基础JavaScript练习（三）/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study-javascript/参考源码/斌斌学院/任务四：基础JavaScript练习（一）/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study_bootstrap/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study_echarts/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study_html5/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/study_js/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/test/main.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study-test/test/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study_EChartss-2/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study_jinja2/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study_jinja2/block.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study_jinja2/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study_jinja2/form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study_jinja2/hello_view.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study_jinja2/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/study_jinja2/main.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/templates/文件夹说明" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/test/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/test/test_mongoengine.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../site/apps/views/study_login.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/awesome-flask-todo.iml" afterPath="$PROJECT_DIR$/.idea/awesome-flask-todo.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/forms.py" afterPath="$PROJECT_DIR$/app/forms.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models.py" afterPath="$PROJECT_DIR$/app/models.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/index.html" afterPath="$PROJECT_DIR$/app/templates/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views.py" afterPath="$PROJECT_DIR$/app/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../gongju/tools/__init__.py" afterPath="$PROJECT_DIR$/../gongju/tools/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../gongju/tools/drequests.py" afterPath="$PROJECT_DIR$/../gongju/tools/drequests.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../gongju/tools/toolMethods.py" afterPath="$PROJECT_DIR$/../gongju/tools/toolMethods.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../site/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/../site/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../site/.idea/misc.xml" afterPath="$PROJECT_DIR$/../site/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../site/.idea/modules.xml" afterPath="$PROJECT_DIR$/../site/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../site/.idea/site.iml" afterPath="$PROJECT_DIR$/../site/.idea/site.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../site/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../site/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../site/apps/templates/study-project/kds/index.html" afterPath="$PROJECT_DIR$/../site/apps/templates/study-project/kds/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../site/apps/templates/study-project/maijiawap-first/index.html" afterPath="$PROJECT_DIR$/../site/apps/templates/study-project/maijiawap-first/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xuser/xuser/forms/user.py" afterPath="$PROJECT_DIR$/../xuser/xuser/forms/user.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xuser/xuser/utils/helps.py" afterPath="$PROJECT_DIR$/../xuser/xuser/utils/helps.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xuser/xuser/views/xuser.py" afterPath="$PROJECT_DIR$/../xuser/xuser/views/xuser.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../site/apps/__init__.py" afterPath="$PROJECT_DIR$/../site/apps/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../site/apps/config.ini" afterPath="$PROJECT_DIR$/../site/apps/config.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../site/apps/ext.py" afterPath="$PROJECT_DIR$/../site/apps/ext.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../site/apps/models/__init__.py" afterPath="$PROJECT_DIR$/../site/apps/models/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../site/apps/models/post.py" afterPath="$PROJECT_DIR$/../site/apps/models/post.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../site/apps/utils/helps.py" afterPath="$PROJECT_DIR$/../site/apps/utils/helps.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../site/apps/views/frontend.py" afterPath="$PROJECT_DIR$/../site/apps/views/frontend.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../site/manage.py" afterPath="$PROJECT_DIR$/../site/manage.py" />
     </list>
     <ignored path="awesome-flask-todo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,12 +335,12 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/awesome_flask_todo$test_todo__1_.coverage" NAME="test_todo (1) Coverage Results" MODIFIED="1492340120464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/awesome_flask_todo$Unittests_in_todoTest_py.coverage" NAME="Unittests in todoTest.py Coverage Results" MODIFIED="1492330472052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/awesome_flask_todo$todoTest.coverage" NAME="todoTest Coverage Results" MODIFIED="1492330509450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app/tests" />
     <SUITE FILE_PATH="coverage/awesome-flask-todo$manage.coverage" NAME="manage Coverage Results" MODIFIED="1492246378155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/awesome_flask_todo$Unittests_in_test_todo_py.coverage" NAME="Unittests in test_todo.py Coverage Results" MODIFIED="1492340158348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/awesome_flask_todo$todoTest.coverage" NAME="todoTest Coverage Results" MODIFIED="1492330509450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app/tests" />
-    <SUITE FILE_PATH="coverage/awesome_flask_todo$test_todo.coverage" NAME="test_todo Coverage Results" MODIFIED="1492336477396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app/test" />
     <SUITE FILE_PATH="coverage/awesome_flask_todo$Unittests_for_app_tests_todoTest_TodoTestCase_test_index.coverage" NAME="Unittests for app.tests.todoTest.TodoTestCase.test_index Coverage Results" MODIFIED="1492330419306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/awesome_flask_todo$Unittests_in_todoTest_py.coverage" NAME="Unittests in todoTest.py Coverage Results" MODIFIED="1492330472052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/awesome_flask_todo$test_todo.coverage" NAME="test_todo Coverage Results" MODIFIED="1492336477396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app/test" />
     <SUITE FILE_PATH="coverage/awesome_flask_todo$Unittests_for_test_test_todo_TestTodo_test_index.coverage" NAME="Unittests for test.test_todo.TestTodo.test_index Coverage Results" MODIFIED="1492339648562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -52,15 +351,13 @@
     <favorites_list name="awesome-flask-todo" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="test_todo.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/test_todo.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-              <folding>
-                <element signature="e#43#58#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="464">
+              <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -94,18 +391,18 @@
         <option value="$PROJECT_DIR$/config.py" />
         <option value="$PROJECT_DIR$/app/__init__.py" />
         <option value="$PROJECT_DIR$/app/static/index.css" />
-        <option value="$PROJECT_DIR$/app/models.py" />
-        <option value="$PROJECT_DIR$/app/forms.py" />
         <option value="$PROJECT_DIR$/app/static/css/index.css" />
         <option value="$PROJECT_DIR$/app/views.py" />
         <option value="$PROJECT_DIR$/app/tests/TodoTestCase.py" />
         <option value="$PROJECT_DIR$/app/tests/todoTest.py" />
         <option value="$PROJECT_DIR$/tests/test_todo.py" />
         <option value="$PROJECT_DIR$/manage.py" />
-        <option value="$PROJECT_DIR$/app/templates/index.html" />
         <option value="$PROJECT_DIR$/app/templates/error.html" />
         <option value="$PROJECT_DIR$/app/test/test_todo.py" />
         <option value="$PROJECT_DIR$/test/test_todo.py" />
+        <option value="$PROJECT_DIR$/app/models.py" />
+        <option value="$PROJECT_DIR$/app/forms.py" />
+        <option value="$PROJECT_DIR$/app/templates/index.html" />
       </list>
     </option>
   </component>
@@ -116,10 +413,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1366" />
-    <option name="y" value="-4" />
-    <option name="width" value="1440" />
-    <option name="height" value="857" />
+    <option name="width" value="1920" />
+    <option name="height" value="1157" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -140,7 +435,16 @@
       </profile-state>
     </entry>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -163,6 +467,12 @@
               <option name="myItemId" value="awesome-flask-todo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="awesome-flask-todo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="awesome-flask-todo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -178,21 +488,21 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
+              <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2690114" />
     <property name="nodejs_interpreter_path" value="/usr/bin/node" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../xweb" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gongju" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -218,7 +528,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in test_todo.py">
+  <component name="RunManager">
     <configuration default="false" name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -235,7 +545,6 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
     <configuration default="false" name="todoTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -254,7 +563,6 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/tests/todoTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
     <configuration default="false" name="test_todo" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -273,7 +581,6 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/test/test_todo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
     <configuration default="false" name="test_todo (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -292,23 +599,6 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/test_todo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittests in test_todo.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="awesome-flask-todo" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/test_todo.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
@@ -329,19 +619,6 @@
       <option name="CUSTOM_SETTINGS" value="false" />
       <option name="USE_OPTIONS" value="false" />
       <option name="OPTIONS" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
-      <node-interpreter value="project" />
-      <working-dir value="" />
-      <envs />
-      <scope-kind value="ALL" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -391,7 +668,6 @@
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="Tox" factoryName="Tox">
@@ -417,10 +693,30 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run" />
+      <command value="run-script" />
       <scripts />
       <node-interpreter value="project" />
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="awesome-flask-todo" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -454,62 +750,18 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="awesome-flask-todo" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_regexPattern" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;.&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="awesome-flask-todo" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;.&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="py.test">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="awesome-flask-todo" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;.&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method />
-    </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.manage" />
-      <item index="1" class="java.lang.String" itemvalue="Python.todoTest" />
-      <item index="2" class="java.lang.String" itemvalue="Python.test_todo" />
-      <item index="3" class="java.lang.String" itemvalue="Python.test_todo (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in test_todo.py" />
-    </list>
-    <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in test_todo.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python.test_todo (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Python.test_todo" />
-        <item index="3" class="java.lang.String" itemvalue="Python.todoTest" />
-        <item index="4" class="java.lang.String" itemvalue="Python.manage" />
-      </list>
-    </recent_temporary>
-    <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -527,8 +779,50 @@
       <option name="TEST_TYPE" value="TEST_SCRIPT" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="awesome-flask-todo" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Python.manage" />
+      <item index="1" class="java.lang.String" itemvalue="Python.todoTest" />
+      <item index="2" class="java.lang.String" itemvalue="Python.test_todo" />
+      <item index="3" class="java.lang.String" itemvalue="Python.test_todo (1)" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.test_todo (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test_todo" />
+        <item index="2" class="java.lang.String" itemvalue="Python.todoTest" />
+        <item index="3" class="java.lang.String" itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -561,28 +855,29 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1366" y="-4" width="1440" height="857" extended-state="6" />
+    <frame x="0" y="0" width="1920" height="1157" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27896994" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27807486" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32940018" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32833788" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32833788" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32833788" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -606,54 +901,65 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views.py">
+    <entry file="file://$PROJECT_DIR$/app/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
-          <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-          <folding />
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="520">
-          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
-          <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-          <folding />
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="520">
-          <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-          <folding />
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -661,42 +967,42 @@
     <entry file="file://$PROJECT_DIR$/app/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="9" />
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../site/apps/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-189">
-          <caret line="28" column="4" lean-forward="false" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../site/manage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
-          <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/pycharm.jar!/resources/html5-schema/html5/meta.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="327">
-          <caret line="174" column="22" lean-forward="false" selection-start-line="174" selection-start-column="22" selection-end-line="174" selection-end-column="22" />
+          <caret line="174" column="22" selection-start-line="174" selection-start-column="22" selection-end-line="174" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../site/apps/templates/frontend/admin_layout.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="14" column="88" lean-forward="false" selection-start-line="14" selection-start-column="88" selection-end-line="14" selection-end-column="88" />
+          <caret line="14" column="88" selection-start-line="14" selection-start-column="88" selection-end-line="14" selection-end-column="88" />
         </state>
       </provider>
     </entry>
@@ -704,128 +1010,114 @@
     <entry file="file:///usr/local/lib/python3.5/dist-packages/flask/helpers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
-          <caret line="185" column="7" lean-forward="true" selection-start-line="145" selection-start-column="4" selection-end-line="185" selection-end-column="7" />
-          <folding />
+          <caret line="185" column="7" selection-start-line="145" selection-start-column="4" selection-end-line="185" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file:///usr/local/lib/python3.5/dist-packages/flask_mongoengine/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2184">
-          <caret line="98" column="8" lean-forward="false" selection-start-line="98" selection-start-column="8" selection-end-line="98" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="e#25#56#0" expanded="false" />
-          </folding>
+          <caret line="98" column="8" selection-start-line="98" selection-start-column="8" selection-end-line="98" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file:///usr/local/lib/python3.5/dist-packages/mongoengine/queryset/base.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="392">
-          <caret line="999" column="43" lean-forward="true" selection-start-line="999" selection-start-column="43" selection-end-line="999" selection-end-column="43" />
+          <caret line="999" column="43" selection-start-line="999" selection-start-column="43" selection-end-line="999" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/static/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="474">
-          <caret line="63" column="24" lean-forward="false" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="24" />
+          <caret line="63" column="24" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/test_todo.py" />
-    <entry file="file://$PROJECT_DIR$/app/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/manage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
-          <caret line="7" column="65" lean-forward="false" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
+          <caret line="7" column="65" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/templates/error.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../xuser/tests/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../xcore/tests/xmongo_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file:///usr/local/lib/python3.5/dist-packages/flask/app.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="847" column="19" lean-forward="false" selection-start-line="847" selection-start-column="8" selection-end-line="847" selection-end-column="19" />
-          <folding />
+          <caret line="847" column="19" selection-start-line="847" selection-start-column="8" selection-end-line="847" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
-          <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-          <folding />
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file:///usr/local/lib/python3.5/dist-packages/mongoengine/queryset/queryset.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="155">
-          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-          <folding />
+          <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="8" column="106" selection-start-line="8" selection-start-column="106" selection-end-line="8" selection-end-column="106" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/test_todo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
-          <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-          <folding>
-            <element signature="e#43#58#0" expanded="true" />
-          </folding>
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
